@@ -8,7 +8,7 @@ public class Hello {
 	
 	@GetMapping(value = "/v1/hello")
 	public String helloJi() {
-		return "Hello Sarthak";
+		return "Hello moto";
 	}
 
 }
